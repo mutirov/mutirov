@@ -9,8 +9,8 @@ Currently improving my skills in mobile development and working on personal proj
 ## 🧠 What I'm Learning
 
 - 📱 Flutter & Dart
-- 🧩 State Management (Provider)
-- 🗂️ MVVM Architecture
+- 🧩 State Management (Bloc and Provider)
+- 🗂️ Clean architecture and MVVM Architecture
 - 📡 HTTP & API Integration
 - 🧪 Widget and Unit Testing
 - 🔐 Firebase Authentication
