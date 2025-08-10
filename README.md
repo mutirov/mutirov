@@ -1,4 +1,5 @@
 👋 Hi, I'm Serdar Mutirov
+
 I’m a Junior Flutter Developer passionate about building high-quality, user-friendly mobile applications.
 With hands-on experience from my own projects, I specialize in Flutter, BLoC and Provider state management, and applying Clean Architecture & MVVM principles for scalable, maintainable apps.
 I enjoy turning ideas into functional products and continuously improving my skills through real-world coding challenges.
