@@ -1,34 +1,25 @@
-# 👋 Hi, I'm Serdar Mutirov
+👋 Hi, I'm Serdar Mutirov
+I’m a Junior Flutter Developer passionate about building high-quality, user-friendly mobile applications.
+With hands-on experience from my own projects, I specialize in Flutter, BLoC and Provider state management, and applying Clean Architecture & MVVM principles for scalable, maintainable apps.
+I enjoy turning ideas into functional products and continuously improving my skills through real-world coding challenges.
 
-I'm a self-taught Flutter developer learning by building real projects.  
-I enjoy turning ideas into mobile apps using Flutter, Provider and MVVM architecture.  
-Currently improving my skills in mobile development and working on personal projects.  
+🛠 Tech Stack & Skills
+Mobile Development: Flutter & Dart
+State Management: BLoC, Provider
+Architecture: Clean Architecture, MVVM
+Backend Integration: REST API, HTTP
+Authentication: Firebase Authentication
+Database: SQLite, Local Storage
+Testing: Widget & Unit Testing
 
----
+📂 My Work
+You can explore my projects on my GitHub repositories — showcasing apps built entirely by me, from UI/UX to backend integration.
 
-## 🧠 What I'm Learning
+📫 Contact
+📧 Email: mutirovws@gmail.com
 
-- 📱 Flutter & Dart
-- 🧩 State Management (Bloc and Provider)
-- 🗂️ Clean architecture and MVVM Architecture
-- 📡 HTTP & API Integration
-- 🧪 Widget and Unit Testing
-- 🔐 Firebase Authentication
-- 🗃️ SQLite / Local Database
+🌐 GitHub: Mutirov
 
----
+💼 LinkedIn: Serdar Mutirov
 
-Your can check my projects => [repositories](https://github.com/Mutirov?tab=repositories) page.
-
----
-
-## 📫 Contact
-
-- 📧 Email: mutirovws@gmail.com  
-- 🌐 GitHub: [Mutirov](https://github.com/Mutirov)  
-- 💼 LinkedIn: [Serdar Mutirov](https://www.linkedin.com/in/serdar-mutirov-23b459376/)
-
----
-
-> “Learning never exhausts the mind.” – Leonardo da Vinci
-
+“Learning never exhausts the mind.” – Leonardo da Vinci
